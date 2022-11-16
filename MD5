@@ -1,0 +1,15 @@
+a4c3ae600b72804c5d525291464fa659 *DESCRIPTION
+eccfd38a570dc2832d8b76d0db8c8bf5 *NAMESPACE
+4301f3c321ec2d5239428afcdcb6e287 *NEWS.md
+a8a6a77fa18cd09d991492ac3b1e3b80 *R/fetch_taboola.R
+7137812f558994f695fde1931b121e67 *R/my_taboola_data.R
+3928ca62f28f1d06977e99a1c3e41520 *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+8f37ea26c4a818a3723a7470b32dacdb *data/my_taboola_data.RData
+5fa26f87d4ac2134e860da57de4d7a15 *inst/doc/tutorial.R
+eedae975bb50537bd6fb27c7db56a603 *inst/doc/tutorial.Rmd
+acc6ec78bee819c4d4a24d5ec36b44fc *inst/doc/tutorial.html
+aaadb5caf0ba46c30572db0431673564 *man/fetch_taboola.Rd
+9655d164a22d86cec71adfe7cc36a81a *man/my_taboola_data.Rd
+8f37ea26c4a818a3723a7470b32dacdb *vignettes/my_taboola_data.RData
+eedae975bb50537bd6fb27c7db56a603 *vignettes/tutorial.Rmd
